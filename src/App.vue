@@ -1,18 +1,18 @@
 <template>
-  <div class="personal">
-      Test
-      
-    <!-- <router-view/> -->
-  </div>
+    <div class="personal">
+        Test
+
+        <!-- <router-view/> -->
+    </div>
 </template>
 <script>
-export default {
-  name: "personal"
-};
+    export default {
+        name: "personal"
+    };
 </script>
 <style>
-.personal {
-    font-size: 24px;
-    color: brown;
-}
+    .personal {
+        font-size: 24px;
+        color: brown;
+    }
 </style>
